@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-En este laboratorio aprenderás a usar **Microsoft 365 Copilot** en Excel para generar automáticamente una **tabla dinámica** a partir de un conjunto de datos de ventas.
+En este laboratorio aprenderás a usar **Microsoft 365 Copilot** en Excel para generar automáticamente una **tabla dinámica** a partir de un conjunto de datos de ventas, incluyendo cómo usar **Edit with Copilot** para modificar directamente el archivo abierto.
 
 ---
 
@@ -44,9 +44,11 @@ Copia este conjunto de datos en un archivo de Excel nuevo (o crea uno en línea)
 2. Copia los datos de ejemplo en la hoja de cálculo.
 3. Guarda el archivo con un nombre descriptivo, por ejemplo:
 
-   ```
-   Ventas_Copilot.xlsx
-   ```
+```
+
+Ventas_Copilot.xlsx
+
+```
 
 ---
 
@@ -54,6 +56,8 @@ Copia este conjunto de datos en un archivo de Excel nuevo (o crea uno en línea)
 
 1. En Excel, busca el botón de **Copilot** en la barra superior (o en la barra lateral).
 2. Haz clic en él para abrir el panel de Copilot.
+3. Para editar directamente el archivo abierto, haz clic en **Herramientas → Edit with Copilot**.  
+Esto permitirá que Copilot genere la tabla dinámica directamente en tu archivo actual, sin crear un archivo nuevo.
 
 ---
 
@@ -61,9 +65,11 @@ Copia este conjunto de datos en un archivo de Excel nuevo (o crea uno en línea)
 
 1. En el panel de Copilot, escribe el siguiente prompt:
 
-   ```
-   Crea una tabla dinámica que muestre la suma de Total Venta por Vendedor y Producto.
-   ```
+```
+
+Crea una tabla dinámica que muestre la suma de Total Venta por Vendedor y Producto en una nueva hoja.
+
+```
 
 2. Presiona **Enter** o haz clic en **Generar**.
 
@@ -71,34 +77,41 @@ Copia este conjunto de datos en un archivo de Excel nuevo (o crea uno en línea)
 
 ### 5️⃣ Revisar y ajustar la tabla dinámica
 
-1. Copilot generará automáticamente la tabla dinámica en una nueva hoja de Excel.
+1. Copilot generará la tabla dinámica directamente en **Sheet2** del archivo abierto.
 2. La tabla debería verse así:
 
 | Vendedor | Producto | Suma de Total Venta |
-| -------- | -------- | ------------------- |
-| Ana      | Laptop   | 5000                |
-| Ana      | Mouse    | 350                 |
-| Juan     | Mouse    | 500                 |
-| Juan     | Teclado  | 750                 |
+| -------- | -------- | ----------------- |
+| Ana      | Laptop   | 5000              |
+| Ana      | Mouse    | 350               |
+| Juan     | Mouse    | 500               |
+| Juan     | Teclado  | 750               |
 
-3. Si quieres, puedes pedir a Copilot que **agregue un gráfico automáticamente** basado en esta tabla:
+3. Opcionalmente, puedes pedir a Copilot que **agregue un gráfico automáticamente** basado en esta tabla:
 
-   ```
-   Crea un gráfico de columnas basado en la tabla dinámica.
-   ```
+```
+
+Crea un gráfico de columnas basado en la tabla dinámica en Sheet2.
+
+```
+
+4. Si es necesario, también podés ajustar directamente desde Excel:
+- Formato de moneda
+- Diseño jerárquico (Producto debajo de Vendedor)
+- Segmentadores para filtrar Vendedor o Producto
 
 ---
 
 ### 6️⃣ Guardar y compartir
 
-* Guarda los cambios.
+* Guarda los cambios en el mismo archivo.
 * Puedes compartir el archivo con tus colegas directamente desde **OneDrive** para que también vean la tabla dinámica generada por Copilot.
 
 ---
 
 ## ✅ Resultado esperado
 
-* Una **tabla dinámica** que resuma las ventas por **Vendedor y Producto**.
+* Una **tabla dinámica** en **Sheet2** que resuma las ventas por **Vendedor y Producto**.
 * Opcional: un **gráfico visual** que represente la información de la tabla.
-* Comprensión de cómo **Copilot puede automatizar tareas de análisis de datos** en Excel.
+* Comprensión de cómo **Copilot con Edit with Copilot puede automatizar tareas de análisis de datos directamente en el archivo abierto**.
 
