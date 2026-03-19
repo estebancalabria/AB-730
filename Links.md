@@ -6,7 +6,9 @@
   * https://www.microsoft365.com/
   * Hoy Microsoft está moviendo todo a ese dominio.
 * Copilot
-  * https://copilot.microsoft.com/
+   * https://copilot.microsoft.com/
  * Copilot Studio
-  * https://copilotstudio.microsoft.com/
-  * 
+    * https://copilotstudio.microsoft.com/
+ * Admin Center
+    * https://admin.microsoft.com/
+      
