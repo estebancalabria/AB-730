@@ -14,3 +14,7 @@
  * My Account
     * https://myaccount.microsoft.com
       
+# Usefull Youtube Links
+
+* https://www.youtube.com/watch?v=W805zXcn2sg&t=23s
+* 
