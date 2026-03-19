@@ -7,3 +7,6 @@
   * Hoy Microsoft está moviendo todo a ese dominio.
 * Copilot
   * https://copilot.microsoft.com/
+ * Copilot Studio
+  * https://copilotstudio.microsoft.com/
+  * 
