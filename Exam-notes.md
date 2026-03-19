@@ -17,7 +17,8 @@
     * Copilot no puede mandar mails por si solo
   * Copilot Chat
     * Podes borrar una conversacion individual y no lo pueden prohibir
-    * 
+    * Podes borrar todas tus historial de conversaciones con copilot desde https://myaccount.microsoft.com/settingsandprivacy/privacy
+    * Cuando inicias una conversacion desde una app como word despues en el historial general esa conversacion deberia aparecer con un punto verde
 * Security 
     * Si me comparten un prompt y no lo puedo ver es qeu fue hecho fuera de mi organizacion
     * Si me dice algo como "You asked for a summary of File.docx. However, the file appears to be either empty, corrupted, or in a format that I cannot process." es que no tengo acceso al archivo
@@ -28,6 +29,7 @@
 * Prompt engineering
     * Security
         * overreliance es cuando confias en la respuesta de la IA sin chequear
+        * Prompt Injection es cuando por ejemplo adjuntas un documento que ademas tiene instrucciones maliciosas dentro y se interpretan como parte del prompt
 * Licencias
     * Tanto Microsoft 365 Copilot (m365.cloud.microsoft) and Microsoft 365 Copilot Chat (m365.cloud.microsoft/chat) tienen Pages que es una especie de canvas.
     * 
