@@ -11,4 +11,6 @@
     * https://copilotstudio.microsoft.com/
  * Admin Center
     * https://admin.microsoft.com/
+ * My Account
+    * https://myaccount.microsoft.com
       
