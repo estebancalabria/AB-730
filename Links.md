@@ -13,6 +13,8 @@
     * https://admin.microsoft.com/
  * My Account
     * https://myaccount.microsoft.com
+* MS PureView
+     * https://purview.microsoft.com/
       
 # Usefull Youtube Links
 
